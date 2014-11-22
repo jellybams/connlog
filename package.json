@@ -1,0 +1,26 @@
+{
+  "name": "facet-connlog",
+  "version": "0.0.1",
+  "description": "websocket connection logger for stress testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spoolphiz/connlog.git"
+  },
+  "keywords": [
+    "facet"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/spoolphiz/connlog",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.2",
+    "facet-core": "^0.1.0",
+    "facet-platform": "^0.1.0",
+    "underscore": "^1.6.0"
+  }
+}
